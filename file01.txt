@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 hello 
 new line from fix
+=======
+hello
+second line added
+:wq
+
+>>>>>>> dev
