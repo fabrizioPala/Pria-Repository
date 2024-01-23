@@ -1,2 +1,2 @@
-# Pria-Repository
+# Prima-Repository
 esempio di repository
